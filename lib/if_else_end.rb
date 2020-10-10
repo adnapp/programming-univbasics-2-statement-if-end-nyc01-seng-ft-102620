@@ -1,7 +1,7 @@
 # Write your solution here
 
 if Time.now.to_i % 2 == 0
-  "Even!"
+  p "Even!"
 else
-  "Odd!"
+p "Odd!"
 end
